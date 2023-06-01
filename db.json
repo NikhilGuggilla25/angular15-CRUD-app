@@ -18,18 +18,6 @@
   },
   "employees": [
     {
-      "firstName": "Nikhil",
-      "lastName": "Guggilla",
-      "email": "nikki@gmail.com",
-      "dob": "2001-03-24T18:30:00.000Z",
-      "gender": "male",
-      "education": "Graduate",
-      "company": "Google",
-      "experience": 0,
-      "package": 16,
-      "id": 1
-    },
-    {
       "firstName": "Raghu",
       "lastName": "Kalvacherla",
       "email": "raghu@gmail.com",
@@ -52,6 +40,18 @@
       "experience": 1,
       "package": 11,
       "id": 3
+    },
+    {
+      "firstName": "Nikhil",
+      "lastName": "Guggilla",
+      "email": "nikhil25@gmail.com",
+      "dob": "2001-03-24T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Zoho",
+      "experience": 2,
+      "package": 12,
+      "id": 4
     }
   ]
 }
