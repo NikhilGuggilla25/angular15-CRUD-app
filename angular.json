@@ -33,8 +33,7 @@
               "@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
             ],
-            "scripts": [],
-            "public" : "src"
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -67,7 +66,7 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
             "browserTarget": "crud-app:build",
-            "allowedHosts": ["localhost","codesandbox.io"]
+            "disableHostCheck": true
           },
           "configurations": {
             "production": {
